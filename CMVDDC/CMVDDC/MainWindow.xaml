@@ -1,0 +1,20 @@
+﻿<Window x:Class="CMVDDC.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CMVDDC"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="BTNConnectMonitor"  Content="Connect" HorizontalAlignment="Left" Margin="54,29,0,0" VerticalAlignment="Top" Width="75" Height="26" Click="BTNConnectMonitor_Click"/>
+        <Label Name="LBLInfo" Content="Waiting" HorizontalAlignment="Left" Margin="141,29,0,0" VerticalAlignment="Top" Width="67"/>
+        <Label Content="Log" HorizontalAlignment="Left" Margin="43,163,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="TBLog" HorizontalAlignment="Left" Height="70" Margin="43,194,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="437"
+                ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Auto"
+                IsReadOnly="True" />
+        <TextBox Name="TBCaps" HorizontalAlignment="Left" Height="58" Margin="207,103,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="194"/>
+        <CheckBox Name="CBInternalFunction" Content="Internal funcion Capability" HorizontalAlignment="Left" Margin="207,82,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

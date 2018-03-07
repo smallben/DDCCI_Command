@@ -1,0 +1,15 @@
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\bin\Debug\CMVDDC.exe.config
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\bin\Debug\CMVDDC.exe
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\bin\Debug\CMVDDC.pdb
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.csprojResolveAssemblyReference.cache
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\MainWindow.g.cs
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\App.g.cs
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC_MarkupCompile.cache
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC_MarkupCompile.lref
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\MainWindow.baml
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.g.resources
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.Properties.Resources.resources
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.csproj.GenerateResource.Cache
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.csproj.CoreCompileInputs.cache
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.exe
+D:\Coretronic\Program\VS_Project\DDCCI\ConnectMonitorViaDDC\CMVDDC\CMVDDC\obj\Debug\CMVDDC.pdb
