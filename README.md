@@ -37,4 +37,4 @@ Code Language: C# - WPF
  2. Run
 
 # Information
-If you have any question, please leave the message to me. Or send me the E-mail: ben.tseng@coretronic.com
+If you have any question, please leave the message to me. Or send me the E-mail: 48292@yahoo.com.tw
